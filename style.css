@@ -1,0 +1,61 @@
+body{
+    justify-content: center;
+    background-color: black;
+    font-family: arial, helvetica, sans-serif;
+}
+.header{
+    align-content: center;
+    color: white;
+    margin-left: 220px;
+    padding-top:  30px;
+}
+#a{
+    color: white;
+    margin-left: 205px;
+}
+#b{
+    color: white;
+    margin-left: 205px;
+}.rad{
+    color: white;
+    margin-left: 200px;
+}
+.form-group{
+    align-content: center;
+}
+.form-control{
+    width: 80%;
+    height: 30px;
+    margin-left: 50px;
+}
+.btn{
+    width: 50%;
+    background-color: #ff7315;
+    align-content: center;
+    color: white;
+    height: 40px;
+    margin-left: 150px;
+    margin-bottom: 30px;
+    font-size: 1.2em;
+}
+.logo{
+    color: white;
+    margin-left: 225px;
+}
+.s{
+    color: #ff7315;
+}
+.other{
+    background-color: #333;
+    align-content: center;
+    margin-top: 50px;
+    margin-bottom: 30px;
+    margin-left: 30px;
+    margin-right: 30px;
+    
+}
+#problem{
+    text-decoration: none;
+    color: white;
+    font-size: 1.2em;
+}
